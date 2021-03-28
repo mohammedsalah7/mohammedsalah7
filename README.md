@@ -11,6 +11,7 @@
 
  -I am a Software Engineer, and a front-end developer ReactJs,
   who is passionate about creating technology to elevate people and help new developers to find the right path.
+  
  -I aspire to increase my knowledge in programming in general and in React in particular.
 
 - If you want help maybe i can help you. Don't stay shy about asking 
