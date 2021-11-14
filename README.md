@@ -27,9 +27,27 @@ I aspire to increase my knowledge in programming in general and in React in part
 - Programming is a lifestyle. 
 
 
+# Languages and Tools:
+
 
 <div>
-  <div style="display: flex; align-items: flex-start;">
+ 
+  <div style="display: flex;  flex-direction:row;  align-items: flex-start;">
+   <img src="https://badges.aleen42.com/src/github.svg"/> 
+   <img src="https://badges.aleen42.com/src/javascript.svg">
+   <img src="https://badges.aleen42.com/src/node.svg">
+   <img src="https://badges.aleen42.com/src/react.svg">
+   <img src="hhttps://badges.aleen42.com/src/visual_studio_code.svg">
+   <img src="https://badges.aleen42.com/src/eslint.svg">
+   <img src="https://badges.aleen42.com/src/redux.svg">
+   <img src="https://badges.aleen42.com/src/jest_1.svg">
+  </div>
+</div>
+
+#
+
+<div>
+  <div style="display: flex;  flex-direction:row;  align-items: flex-start;">
    <img src="https://github-readme-stats.vercel.app/api?username=mohammedsalah7&show_icons=true&theme=dark"/> 
    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsalah7&layout=compact&theme=dark">
   </div>
