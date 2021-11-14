@@ -59,7 +59,7 @@ I aspire to increase my knowledge in programming in general and in React in part
 </div>
     </div>
 
-## Footballs Clubs : 
+## Football Clubs :
 <img src="https://badges.aleen42.com/src/liverpool.svg">
  
 <img src="https://badges.aleen42.com/src/barcelona.svg">
