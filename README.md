@@ -66,3 +66,12 @@ I aspire to increase my knowledge in programming in general and in React in part
  
 <img src="https://badges.aleen42.com/src/ac_milan.svg">
 
+
+<!-- <a href="https://github.com/Alaa-Hijazi7?tab=followers">
+  <img src="https://img.shields.io/github/followers/mohammedsalah7">
+</a>
+<a href="https://github.com/Alaa-Hijazi7">
+   <img src="https://komarev.com/ghpvc/?username=mohammedsalah7">
+</a>
+ -->
+
