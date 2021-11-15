@@ -66,9 +66,3 @@ I aspire to increase my knowledge in programming in general and in React in part
  
 <img src="https://badges.aleen42.com/src/ac_milan.svg">
 
-
-<div align="center" >
-<div style="display: flex;">   
-    <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"/>
-</div>
-    </div>
